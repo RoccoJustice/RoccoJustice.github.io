@@ -6,5 +6,5 @@
 * Created visualizations to observe tendencies
 
 ### Code and Resources Used
-Python Version: 3.8
-Packages: pandas, numpy, matplotlib, fuzzy
+* Python Version: 3.8
+* Packages: pandas, numpy, matplotlib, fuzzy
